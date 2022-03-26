@@ -26,6 +26,7 @@ public class DBInit implements CommandLineRunner{
         // TODO Auto-generated method stub
 //        utilisateurRepository.save(new Utilisateur("zaiter", "assia", "assia-z@live.fr", passwordEncoder.encode("azerty123"),RoleUtilisateur.ADMIN, Sexe.FEMENIN, new Date(), true));
 //        utilisateurRepository.save(new Utilisateur("zaiter", "adem", "adem-z@live.fr", passwordEncoder.encode("azerty124"),RoleUtilisateur.USER, Sexe.MASCULIN, new Date(), true));
+//      utilisateurRepository.save(new Utilisateur("nicole", "mikael", "mikael1014@hotmail.com", passwordEncoder.encode("azerty123"),RoleUtilisateur.ADMIN, Sexe.MASCULIN, new Date(), true));
 //            
     }
 
